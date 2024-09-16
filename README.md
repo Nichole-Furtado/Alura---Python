@@ -1,2 +1,2 @@
-# Alura---Python
-Iniciante
+# Alura
+ Iniciantes
